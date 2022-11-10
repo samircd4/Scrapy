@@ -1,5 +1,9 @@
 # Scrapy
-Requirements library 
-1. Scrapy
-Installation process 
-pip install scrapy
+## Usage/Examples
+
+```python
+import Component from 'my-project'
+
+def sam():
+    print('Samir Das')
+```
